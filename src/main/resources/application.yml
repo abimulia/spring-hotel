@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-hotel
+server:
+  port: 8181
