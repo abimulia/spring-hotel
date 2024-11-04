@@ -1,0 +1,17 @@
+logging:
+  level:
+    ROOT: info
+    org.hibernate.SQL: INFO
+    com.abimulia: INFO
+spring:
+  datasource:
+    url: jdbc:postgresql://${POSTGRES_URL}:${POSTGRES_PORT}/${POSTGRES_DB}
+    username: ${POSTGRES_USER}
+    password: ${POSTGRES_PASSWORD}
+  jpa:
+    properties:
+      hibernate:
+        default_schema: ${DEFAULT_SCHEMA}
+  liquibase:
+    contexts: prod
+    default-schema: ${DEFAULT_SCHEMA}
