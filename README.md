@@ -11,6 +11,10 @@ For building and running the application you need:
 - [JDK 23](https://openjdk.org/projects/jdk/23/)
 - [Maven 3.9.9](https://maven.apache.org)
 
+## ER Diagrams
+
+![image](https://github.com/user-attachments/assets/5f54b575-2cc7-47a1-8b08-53f19cde3a98)
+
 ## Running the application locally
 
 ```shell
