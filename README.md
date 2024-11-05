@@ -1,6 +1,8 @@
 #spring-hotel
 
+[![Java Spring-Boot](https://img.shields.io/badge/Java-Spring_Boot-green)](https://spring.io/)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+
 
 Simple [Spring Boot](https://spring.io/projects/spring-boot) Hotel application.
 
